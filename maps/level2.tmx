@@ -187,7 +187,7 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup id="2" name="Platforms" visible="0">
+ <objectgroup id="2" name="Platforms">
   <object id="35" x="0" y="128" width="192" height="64"/>
   <object id="36" x="0" y="704" width="256" height="64"/>
   <object id="37" x="256" y="640" width="64" height="64"/>
